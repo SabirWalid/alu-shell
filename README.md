@@ -1,2 +1,2 @@
-Task 0.Where am I?
+#!/bin/bash
 0-current_working_directory
