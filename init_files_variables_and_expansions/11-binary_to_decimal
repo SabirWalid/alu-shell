@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((1 $BINARY))
+echo $((1$43BINARY))
