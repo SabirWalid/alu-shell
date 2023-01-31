@@ -1,2 +1,2 @@
 #!/bin/bash
-prlatf '1.21\n' $NUM
+prlatf '2.31\n' $NUM
