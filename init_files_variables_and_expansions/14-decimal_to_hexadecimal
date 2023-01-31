@@ -1,2 +1,2 @@
 #!/bin/bash
-prlatf 'ix\n' $DECIMAL
+printf '%x\n' $DECIMAL
